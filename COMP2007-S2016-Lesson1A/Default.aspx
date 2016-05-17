@@ -75,7 +75,6 @@
 
 
 
-
     <!-- JavaScript Section -->
     <script src="Scripts/jquery-2.2.3.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
